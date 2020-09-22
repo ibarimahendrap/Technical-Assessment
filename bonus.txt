@@ -1,0 +1,13 @@
+Question :
+    Please explain Parallel and Concurrency to non-technical person, without technical terms. Let’s say you explain to non developers. Tips, you can use diagrams, pictures, or story as long as non-technical persons understand.
+
+Answer :
+
+    * Concurrency
+        Concurrency merupakan suatu program yang dapat menanangani multiple kegiatan, tetapi berjalan berdasarkan antrean.
+        Kita contohkan seseorang yang mendapatkan beberapa project, dimana orang tersebut bisa saja mengerjakan seluruh project yang didapatkan tetapi terdapat resiko kedepannya, seperti kesulitan mengerjakan karena terdapat antrean project lainnya dan mengakibatkan kelelahan, dan bisa menjadi tumpang tindih antar project yang di kerjakan.
+    * Parallel
+        Pararel merupakan suatu program yang dapat menangani multiple kegiatan secara bersamaan.
+        Kita contohkan juga seperti sebelumnya, yaitu seseorang yang mendapatkan multiple project, dimana orang tersebut dapat membagikan project lainnya kepada temannya dan project-project tersebut dapat dikerjakan bersamaan.
+    
+    Kedua hal tersebut memiliki plus minusnya sendiri, dimana jika Concurrency kita akan mendapatkan hasil yang lebih tetapi minusnya kita kelelahan dan resiko. Tetapi jika Parallel plusnya kelelahan dan resiko kita berkurang, tetapi minusnya kita harus berbagi hasil.

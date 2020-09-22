@@ -1,0 +1,16 @@
+/** 
+    Question :
+    1. Create a single line script that returns the number of httpd processes that are running on the current machine
+    2. Open a terminal and type:
+        # cd /tmp
+        # mkdir -p mig33/inner_folder
+        # touch mig33/inner.folder/{1,2,3,4,5}.txt
+        From the current folder (/tmp), provide some bash commands that will rename all the *.txt files in mig33/inner_folder/ to *.dat
+    
+    Answer :
+**/
+
+/* 1. */
+    top
+/* 2. */
+    rename 's/.txt/.dat/' mig33/inner_folder/*.txt
