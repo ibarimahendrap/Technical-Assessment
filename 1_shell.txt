@@ -11,6 +11,6 @@
 **/
 
 /* 1. */
-    top
+    $ top
 /* 2. */
-    rename 's/.txt/.dat/' mig33/inner_folder/*.txt
+    $ rename 's/.txt/.dat/' mig33/inner_folder/*.txt
